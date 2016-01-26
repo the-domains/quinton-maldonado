@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T03:36:44.939Z'
+datePublished: '2016-01-26T03:36:45.005Z'
 dateModified: '2016-01-26T03:36:42.576Z'
 title: Digital Corruptions
 author: []
