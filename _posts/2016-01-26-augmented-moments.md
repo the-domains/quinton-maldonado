@@ -6,34 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T03:07:58.498Z'
-dateModified: '2016-01-26T03:07:41.772Z'
+datePublished: '2016-01-26T03:33:11.031Z'
+dateModified: '2016-01-26T03:31:30.579Z'
 title: Augmented Moments
 author: []
+sourcePath: _posts/2016-01-26-augmented-moments.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-augmented-moments.md
-published: true
 url: augmented-moments/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/612dd3da-3daf-4ab2-9148-b1ee11ccb0ce.jpg)
-
-_Installation View 1_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6c14f59-9f4e-4556-af05-e6d01e947c30.jpg)
-
-_Installation View 2_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abc6f157-a604-42f2-8c3a-ecef86102699.jpg)
-
-_Installation View 3_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/552723a8-7b64-4b82-ad99-b16507084eba.jpg)
-
-_Installation View 4_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b287f021-453f-46b4-938c-5e2e89c157ca.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaae4314-bade-4f84-9a1a-8da99060e5db.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ac9a22a-e9d9-4d1b-a63d-8892de32b8ee.jpg)
