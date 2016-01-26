@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T03:33:11.199Z'
-dateModified: '2016-01-26T03:31:30.579Z'
+datePublished: '2016-01-26T03:33:37.489Z'
+dateModified: '2016-01-26T03:33:34.156Z'
 title: Augmented Moments
 author: []
 sourcePath: _posts/2016-01-26-augmented-moments.md
