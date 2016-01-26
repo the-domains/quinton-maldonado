@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Quinton Maldonado]]></title>
         <description><![CDATA[Quinton Maldonado]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quinton-maldonado/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 03:07:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 03:20:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quinton-maldonado/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Digital Corruptions]]></title>
+            <description><![CDATA[<article><h1>Digital Corruptions</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02e070faf117d2a15c8d08ee74641aa2fd6bf519.jpg"></article>]]></description>
+            <link>https://thegrid.ai/quinton-maldonado/digital-corruptions/index.html</link>
+            <guid isPermaLink="false">22cf80bb-4517-4430-a797-14ee65940e82</guid>
+            <pubDate>Tue, 26 Jan 2016 03:20:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Augmented Moments]]></title>
-            <description><![CDATA[<article><h1>Augmented Moments</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87402a4653de05a0a7bd3e84edc43e07db139c3a.jpg"></article>]]></description>
-            <link>undefinedaugmented-moments/index.html</link>
+            <description><![CDATA[<article><h1>Augmented Moments</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffd04153f17c25be4a31879094f5560f541220bb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/quinton-maldonado/augmented-moments/index.html</link>
             <guid isPermaLink="false">700e3766-71c9-4dc2-9cc3-6ea18ca91bd9</guid>
             <pubDate>Tue, 26 Jan 2016 03:07:58 GMT</pubDate>
         </item>
