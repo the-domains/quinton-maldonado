@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T03:33:11.031Z'
+datePublished: '2016-01-26T03:33:11.055Z'
 dateModified: '2016-01-26T03:31:30.579Z'
 title: Augmented Moments
 author: []
