@@ -4,21 +4,21 @@
         <description><![CDATA[Quinton Maldonado]]></description>
         <link>https://thegrid.ai/quinton-maldonado/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 03:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 03:33:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quinton-maldonado/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Augmented Moments]]></title>
-            <description><![CDATA[<article><h1>Augmented Moments</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffd04153f17c25be4a31879094f5560f541220bb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/quinton-maldonado/augmented-moments/index.html</link>
-            <guid isPermaLink="false">700e3766-71c9-4dc2-9cc3-6ea18ca91bd9</guid>
-            <pubDate>Tue, 26 Jan 2016 03:33:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Digital Corruptions]]></title>
             <description><![CDATA[<article><h1>Digital Corruptions</h1><p>Installation View 1</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b44abc80df0febf2ac6ce99b0e6db95bc8ff1a0.jpg"></article>]]></description>
             <link>https://thegrid.ai/quinton-maldonado/digital-corruptions/index.html</link>
             <guid isPermaLink="false">22cf80bb-4517-4430-a797-14ee65940e82</guid>
             <pubDate>Tue, 26 Jan 2016 03:20:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Augmented Moments]]></title>
+            <description><![CDATA[<article><h1>Augmented Moments</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e37fd26a30eeca33bd9fe8456411c539cf4feca2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/quinton-maldonado/augmented-moments/index.html</link>
+            <guid isPermaLink="false">700e3766-71c9-4dc2-9cc3-6ea18ca91bd9</guid>
+            <pubDate>Tue, 26 Jan 2016 03:33:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
