@@ -1,7 +1,7 @@
 name: Quinton Maldonado
 favicon: null
-layout_spectrum: 0.027180198347195983
-typography_spectrum: 0.7407540229614824
+layout_spectrum: 0.23897
+typography_spectrum: 0.37882
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7903204255271703
-  lightness: 0.6091534676961601
-  saturation: 0.1473800209350884
-  rhythmicContrast: 0.0506223626434803
+    - '#dcd8d5'
+    - '#712c4b'
+    - '#d93e3d'
+    - '#c4ad7d'
+    - '#da7467'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
